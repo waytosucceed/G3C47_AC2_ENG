@@ -1,0 +1,216 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which sentence is a fact?",
+    "options": [
+      "Pizza is the best food ever.",
+      "The sun rises in the east.",
+      "Blue is the prettiest colour."
+    ],
+    "correct": 1,
+    "explanation": "This is a fact because it's something we can observe and prove. It happens every day and is true for everyone, no matter what they think or feel."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which sentence is an opinion?",
+    "options": [
+      "Water freezes at 0°C (32°F).",
+      "There are 7 days in a week.",
+      "Chocolate ice cream tastes the best."
+    ],
+    "correct": 2,
+    "explanation": "This is an opinion because it's based on personal preference. Some people might like vanilla or strawberry ice cream better. There's no way to prove that one flavour is the \"best\" for everyone."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Identify the opinion in this sentence: \"I think pandas are cute, and they eat bamboo.\"",
+    "options": [
+      "Pandas are cute",
+      "Pandas eat bamboo"
+    ],
+    "correct": 0,
+    "explanation": "\"Pandas are cute\" is an opinion because it's a personal view about how pandas look. Some people might not think pandas are cute. \"Pandas eat bamboo\" is a fact that can be observed and proven."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which statement is a fact?",
+    "options": [
+      "Summer is the most fun season.",
+      "Apples are red or green.",
+      "Math is the hardest subject."
+    ],
+    "correct": 1,
+    "explanation": "This is a fact because we can see that apples come in red and green colours. It's something we can observe and prove. The other statements are opinions based on personal preferences or beliefs."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What makes something a fact?",
+    "options": [
+      "It's something that sounds interesting",
+      "It's something that can be proven true",
+      "It's something that makes people happy"
+    ],
+    "correct": 1,
+    "explanation": "A fact is something that can be proven true through observation, measurement, or research. It doesn't depend on what people think or feel about it."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which sentence contains an opinion?",
+    "options": [
+      "The Earth is round.",
+      "There are 12 months in a year.",
+      "Reading is more fun than math."
+    ],
+    "correct": 2,
+    "explanation": "This is an opinion because \"fun\" is subjective - what one person finds fun, another might not. Some students might enjoy math more than reading. The other sentences state facts that can be proven."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "In the sentence \"I believe elephants are the most interesting animals,\" what word signals an opinion?",
+    "options": [
+      "Elephants",
+      "Animals",
+      "Believe"
+    ],
+    "correct": 2,
+    "explanation": "The word \"believe\" signals that this is a personal opinion. When someone says \"I believe,\" they're usually expressing their own thoughts or feelings, not a proven fact."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What is an opinion?",
+    "options": [
+      "Something that someone thinks or feels",
+      "Something that can be measured",
+      "Something that everyone knows"
+    ],
+    "correct": 0,
+    "explanation": "An opinion is a personal view, belief, or judgment that may not be true for everyone. It's based on what someone thinks or feels, rather than on facts that can be proven."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which sentence is stating a fact?",
+    "options": [
+      "Vegetables taste good.",
+      "Broccoli is a vegetable.",
+      "Everyone should eat vegetables daily."
+    ],
+    "correct": 1,
+    "explanation": "This is a fact because broccoli is classified as a vegetable by scientists. We can prove this through observation and scientific classification. The other statements are opinions."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "In the sentence \"I think rainy days are gloomy,\" which word shows it's an opinion?",
+    "options": [
+      "Rainy",
+      "Days",
+      "Think"
+    ],
+    "correct": 2,
+    "explanation": "The word \"think\" indicates that this is a personal opinion. When someone says \"I think,\" they're expressing their own view, which might be different from what others think."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which statement about the moon is a fact?",
+    "options": [
+      "The moon is made of cheese.",
+      "The moon is the prettiest thing in the sky.",
+      "The moon orbits around the Earth."
+    ],
+    "correct": 2,
+    "explanation": "This is a fact that has been observed and proven by scientists. We can track the moon's movement around the Earth. The other statements are either not true or are opinions."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What's the difference between a fact and an opinion?",
+    "options": [
+      "Facts are always about animals, and opinions are about people.",
+      "Facts can be proven true, opinions are what someone thinks."
+    ],
+    "correct": 1,
+    "explanation": "This correctly describes the main difference between facts and opinions. Facts are things we can prove through observation or measurement, while opinions are personal views that can differ from person to person."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which statement about books is a fact?",
+    "options": [
+      "Books are made of paper and have words in them.",
+      "Reading books is the best hobby.",
+      "Everyone should read for an hour every day."
+    ],
+    "correct": 0,
+    "explanation": "This is a fact because we can observe that most books are indeed made of paper and contain words. While some books might be digital or made of other materials, this statement is generally true and can be proven. The other statements are opinions about reading habits and preferences."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which sentence is a fact about tigers?",
+    "options": [
+      "Tigers are the scariest animals in the jungle.",
+      "Tigers are big cats that hunt for their food."
+    ],
+    "correct": 1,
+    "explanation": "This is a fact because it can be observed and proven. Tigers are classified as big cats, and we know they hunt for their prey."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "The sentence \"I believe unicorns are real” is a/an:",
+    "options": [
+      "Opinion",
+      "Fact"
+    ],
+    "correct": 0,
+    "explanation": "This is an opinion for two reasons: First, unicorns have never been proven to exist in real life, so believing in them is a personal choice. Second, the use of \"I believe\" signals that this is the person's own thought or feeling, not a proven fact."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which statement about the weather is a fact?",
+    "options": [
+      "Rainy days are best.",
+      "Snow is the best kind of weather.",
+      "Water freezes and becomes ice when it's very cold."
+    ],
+    "correct": 2,
+    "explanation": "This is a fact because it's something we can observe and measure. When the temperature drops below 0°C (32°F), water turns into ice. This is true regardless of what anyone thinks or feels about it."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "The sentence \"Blue is the coolest colour” is a/an:",
+    "options": [
+      "Opinion",
+      "Fact"
+    ],
+    "correct": 0,
+    "explanation": "The word \"coolest\" makes this an opinion. What's \"cool\" is subjective and can mean different things to different people. Some might think red or green is cooler. This is a personal preference, not a fact that can be proven."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which statement about planets is a fact?",
+    "options": [
+      "Mars is the most interesting planet.",
+      "Venus is my favourite than Mercury.",
+      "Jupiter is the largest planet in our solar system."
+    ],
+    "correct": 2,
+    "explanation": "This is a fact that has been measured and proven by scientists. We can observe and compare the sizes of planets."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which sentence is stating an opinion?",
+    "options": [
+      "The Earth rotates on its axis.",
+      "Humans breathe oxygen to live.",
+      "Math is the most important subject in school."
+    ],
+    "correct": 2,
+    "explanation": "This is an opinion because the importance of a subject can vary from person to person. Some might think science or language is more important. The other statements are facts that can be proven through observation or scientific study."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "The sentence \"I think dolphins are smarter than sharks\" is a/an:",
+    "options": [
+      "Opinion",
+      "Fact"
+    ],
+    "correct": 0,
+    "explanation": "The word \"think\" indicates that this is a personal opinion. When someone says \"I think,\" they're expressing their own view or belief, which might not be the same as what others think or what can be proven as fact."
+  }
+]
